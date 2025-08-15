@@ -73,15 +73,15 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 
 ### About me ##
 
-I am a research engineer with experience in data engineering and data science, working on my masters at ICMC-USP in Brazil. I have published multiple papers in national conferences and journals.
+I am a Master's student in Data Engineering and Data Science at the University of São Paulo (USP), Researcher and Data Engineer, focused on bridging the gap between academic research and real-world industry applications. My approach is grounded in a strong research background, where as a Research Scientist, I designed scalable data pipelines for Smart City projects using Apache Spark and Airflow. This foundational work led to multiple publications, the release of two public datasets, and a Best Paper award for my contributions to big data research. I apply this research foundation to build practical, high-impact solutions.  My goal is to leverage my skills in data engineering and machine learning to build state-of-the-art technology that solves tangible problems.
 
 <span style="display: block; height: 8px;"></span>
 
 ### Experience ##
 
-  - Applied Researcher Engineer at VONEX: Managed the end-to-end development of AI/ML solutions, from researching LLMs and voice recognition to deploying functional prototypes.
-  - Data Analyst at NEES: Led the development of data solutions, building interactive dashboards with Apache Superset and creating Python/Django APIs to improve strategic decision-making.
-  - Research Scientist at UFAL: Designed and implemented award-winning big data solutions for Smart City research, developing data pipelines with Spark and Airflow and publishing novel frameworks.
+  - Applied Researcher Engineer at VONEX: Engineer researching LLMs and voice recognition algorithms to deploying functional prototypes.
+  - Data Analyst at NEES: Led the development of interactive dashboards with Apache Superset and creating Python/Django APIs to improve strategic decision-making.
+  - Research Scientist at UFAL: Designed and implemented big data solutions for Smart City research, developing data pipelines with Spark and Airflow and frameworks based on state-of-the-art architectures like Data Lakehouses.
 
 You can find more information on my <a href="https://drive.google.com/file/d/1TA7bGt0hTGi8Bd0Sm4o-ABfUjkLK0XfL/view?usp=sharing" target="_blank" style="text-decoration: none;">CV</a>
 
