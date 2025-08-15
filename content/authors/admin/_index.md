@@ -70,10 +70,11 @@ social:
 
 highlight_name: true # Highlight the author in author lists? (true/false)
 ---
+<span style="display: block; height: 10px;"></span>
 
 ### About me ##
 
-I am a Master's student in Data Engineering and Data Science at the University of São Paulo (USP), Researcher and Data Engineer, focused on bridging the gap between academic research and real-world industry applications. My approach is grounded in a strong research background, where as a Research Scientist, I designed scalable data pipelines for Smart City projects using Apache Spark and Airflow. This foundational work led to multiple publications, the release of two public datasets, and a Best Paper award for my contributions to big data research. I apply this research foundation to build practical, high-impact solutions.  My goal is to leverage my skills in data engineering and machine learning to build state-of-the-art technology that solves tangible problems.
+I am a Master's student in Data Engineering and Data Science at the University of São Paulo (USP), Researcher and Data Engineer, focused on bridging the gap between academic research and real-world industry applications.  My goal is to leverage my skills in data engineering and machine learning to build state-of-the-art technology that solves tangible problems.
 
 <span style="display: block; height: 8px;"></span>
 
