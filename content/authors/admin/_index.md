@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Simon Gravelle
+title: Felipe Vasconcelos
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
+first_name: Felipe
+last_name: Vasconcelos
 
 # Status emoji
 status:
@@ -14,28 +14,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: CNRS research scientist
+role: Master's student and Research Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: LIPhy, Grenoble, France
-    url: https://liphy.univ-grenoble-alpes.fr/
+  - name: University of Sao Paulo (USP), Sao Carlos, Brazil.
+    url: https://icmc.usp.br/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Computer physicist in soft matter and fluids at interfaces in LIPhy (UGA, CNRS), in Grenoble, France.
+bio: Research Engineer, Data Engineer and Master's student in Big Data Engineering at the Institute of Mathematics and Computer Science (ICMC) of the University of Sao Paulo, Brazil.  
 
 # Interests to show in About widget
 interests:
-  - Soft Matter
-  - Fluid at interface
-  - Computer simulations
+  - Data engineering
+  - Data science
+  - Databases
+  - Research
+  - Graphs databases
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Nanofluidics
-      institution: University of Lyon (France)
-      year: 2015
+    - course: Master's in Big Data Engineering
+      institution: University of Sao Paulo (Brazil)
+      year: 2026
+    - course: Computer Science
+      institution: Federal University of Alagoas (Brazil)
+      year: 2024
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,47 +51,42 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:simon.gravelle@cnrs.fr
+    link: mailto:felipevsc@usp.br
   - icon: github
     icon_pack: fab
-    link: https://github.com/simongravelle
+    link: https://github.com/felipevsc
     display:
       header: true
-  - icon: mastodon
+  - icon: linkedin
     icon_pack: fab
-    link: https://mastodon.social/@simongravelle
+    link: https://linkedin.com/in/felipevsc
     label: Follow me on Mastodon
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl
+    link: https://scholar.google.com/citations?user=uhnUMI8AAAAJ
   - icon: cv
     icon_pack: ai
-    link: files/resume/resume-simon-gravelle.pdf
+    link: files/resume/felipevsc.pdf
 
 highlight_name: true # Highlight the author in author lists? (true/false)
 ---
 
 ### About me ##
 
-I am a computer physicist in soft matter and fluids at interfaces, working at
-the LIPhy institute in Grenoble, France.
-
-<a href="https://github.com/simongravelle" target="_blank" style="float: right">
-  <img src="https://raw.githubusercontent.com/simongravelle/simongravelle.github.io/refs/heads/main/static/img/water-in-polymer.png" alt="Water in polymer - molecular dynamics" width="200">
-</a>
+I am a research engineer with experience in data engineering and data science, working on my masters at ICMC-USP in Brazil. I have published multiple papers in national conferences and journals.
 
 <span style="display: block; height: 8px;"></span>
 
-### What I share on <a href="https://github.com/simongravelle" target="_blank" style="text-decoration: none;">GitHub</a> ##
+### What I share on <a href="https://github.com/felipevsc" target="_blank" style="text-decoration: none;">GitHub</a> ##
 
-  - Input files for molecular simulations
-  - Scripts for preparing and analyzing simulations
+  - Data engineering projects with Data Lakehouses/Delta Lake
+  - Data science/deep learning projects
   - Data and scripts from my recent publications
 
 <span style="display: block; height: 8px;"></span>
 
 ### My primary outreach projects ##
 
-  - <a href="https://github.com/lammpstutorials" target="_blank" style="text-decoration: none;">LAMMPS tutorials</a> for LAMMPS beginners
-  - <a href="https://github.com/mdcourse" target="_blank" style="text-decoration: none;">Guides</a> for implementing molecular simulations from scratch
-
+  - <a href="https://github.com/felipeVsc/lakehouses" target="_blank" style="text-decoration: none;">Data lakehouses</a> for storing and analyzing geospatial data
+  - <a href="https://github.com/felipeVsc/stormevents" target="_blank" style="text-decoration: none;">Storm Events Database</a> turned into an Event Data Warehouse
+  - <a href="https://github.com/felipeVsc/textual_mining" target="_blank" style="text-decoration: none;">Textual data mining</a> from news dataset to classify articles into predefined categories.
