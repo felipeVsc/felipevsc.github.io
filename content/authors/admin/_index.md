@@ -86,9 +86,3 @@ I am a research engineer with experience in data engineering and data science, w
 You can find more information on my <a href="https://drive.google.com/file/d/1TA7bGt0hTGi8Bd0Sm4o-ABfUjkLK0XfL/view?usp=sharing" target="_blank" style="text-decoration: none;">CV</a>
 
 <span style="display: block; height: 8px;"></span>
-
-### What I share on <a href="https://github.com/felipevsc" target="_blank" style="text-decoration: none;">GitHub</a> ##
-
-  - <a href="https://github.com/felipeVsc/lakehouses" target="_blank" style="text-decoration: none;">Data lakehouses</a> for storing and analyzing geospatial data
-  - <a href="https://github.com/felipeVsc/stormevents" target="_blank" style="text-decoration: none;">Storm Events Database</a> turned into an Event Data Warehouse
-  - <a href="https://github.com/felipeVsc/textual_mining" target="_blank" style="text-decoration: none;">Textual data mining</a> from news dataset to classify articles into predefined categories.
