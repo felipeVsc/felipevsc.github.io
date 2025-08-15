@@ -69,6 +69,10 @@
   margin: 10px 0;
 }
 
+.navbar, .site-header, .top-bar {
+    display: none !important;
+}
+
 /* article styling */
 .article {
     p a {
