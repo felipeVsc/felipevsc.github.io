@@ -79,7 +79,6 @@ I am a research engineer with experience in data engineering and data science, w
 
 <span style="display: block; height: 8px;"></span>
 
-
 ### Experience ##
 
   - Applied Researcher Engineer at VONEX: Managed the end-to-end development of AI/ML solutions, from researching LLMs and voice recognition to deploying functional prototypes.
@@ -91,14 +90,6 @@ You can find more information on my <a href="/static/files/felipevsc.pdf" target
 <span style="display: block; height: 8px;"></span>
 
 ### What I share on <a href="https://github.com/felipevsc" target="_blank" style="text-decoration: none;">GitHub</a> ##
-
-  - Data engineering projects with Data Lakehouses/Delta Lake
-  - Data science/deep learning projects
-  - Data and scripts from my recent publications
-
-<span style="display: block; height: 8px;"></span>
-
-### My primary outreach projects ##
 
   - <a href="https://github.com/felipeVsc/lakehouses" target="_blank" style="text-decoration: none;">Data lakehouses</a> for storing and analyzing geospatial data
   - <a href="https://github.com/felipeVsc/stormevents" target="_blank" style="text-decoration: none;">Storm Events Database</a> turned into an Event Data Warehouse
