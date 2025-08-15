@@ -66,7 +66,7 @@ social:
     link: https://scholar.google.com/citations?user=uhnUMI8AAAAJ
   - icon: cv
     icon_pack: ai
-    link: files/resume/felipevsc.pdf
+    link: https://drive.google.com/file/d/1TA7bGt0hTGi8Bd0Sm4o-ABfUjkLK0XfL/view?usp=sharing
 
 highlight_name: true # Highlight the author in author lists? (true/false)
 ---
@@ -83,7 +83,7 @@ I am a research engineer with experience in data engineering and data science, w
   - Data Analyst at NEES: Led the development of data solutions, building interactive dashboards with Apache Superset and creating Python/Django APIs to improve strategic decision-making.
   - Research Scientist at UFAL: Designed and implemented award-winning big data solutions for Smart City research, developing data pipelines with Spark and Airflow and publishing novel frameworks.
 
-You can find more information on my <a href="static/files/felipevsc.pdf" target="_blank" style="text-decoration: none;">CV</a>
+You can find more information on my <a href="https://drive.google.com/file/d/1TA7bGt0hTGi8Bd0Sm4o-ABfUjkLK0XfL/view?usp=sharing" target="_blank" style="text-decoration: none;">CV</a>
 
 <span style="display: block; height: 8px;"></span>
 
