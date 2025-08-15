@@ -12,5 +12,5 @@
         icon: scroll
         name: Link
         url: 'https://journals-sol.sbc.org.br/index.php/jidm/article/view/2361'
-    ---
+---
     

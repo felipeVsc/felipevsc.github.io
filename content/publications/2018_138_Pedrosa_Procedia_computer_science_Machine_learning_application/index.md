@@ -12,5 +12,5 @@
         icon: scroll
         name: Link
         url: 'https://www.sciencedirect.com/science/article/pii/S1877050918316648'
-    ---
+---
     
