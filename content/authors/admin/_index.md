@@ -71,9 +71,22 @@ social:
 highlight_name: true # Highlight the author in author lists? (true/false)
 ---
 
+<span style="display: block; height: 8px;"></span>
+
 ### About me ##
 
 I am a research engineer with experience in data engineering and data science, working on my masters at ICMC-USP in Brazil. I have published multiple papers in national conferences and journals.
+
+<span style="display: block; height: 8px;"></span>
+
+
+### Experience ##
+
+  - Applied Researcher Engineer at VONEX: Managed the end-to-end development of AI/ML solutions, from researching LLMs and voice recognition to deploying functional prototypes.
+  - Data Analyst at NEES: Led the development of data solutions, building interactive dashboards with Apache Superset and creating Python/Django APIs to improve strategic decision-making.
+  - Research Scientist at UFAL: Designed and implemented award-winning big data solutions for Smart City research, developing data pipelines with Spark and Airflow and publishing novel frameworks.
+
+You can find more information on my <a href="/static/files/felipevsc.pdf" target="_blank" style="text-decoration: none;">CV</a>
 
 <span style="display: block; height: 8px;"></span>
 
