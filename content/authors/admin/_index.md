@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master's student and Research Engineer
+role: Data Engineer | MSc in Data Engineering @ USP
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,15 +22,15 @@ organizations:
     url: https://icmc.usp.br/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Engineer, Data Engineer and Master's student in Big Data Engineering at the Institute of Mathematics and Computer Science (ICMC) of the University of Sao Paulo, Brazil.  
+bio: Data Engineer and Master's student in Data Engineering at the Institute of Mathematics and Computer Science (ICMC) of the University of Sao Paulo, Brazil. I build data platforms and turn stakeholder problems into working solutions.
 
 # Interests to show in About widget
 interests:
   - Data engineering
-  - Data science
-  - Databases
-  - Research
-  - Graphs databases
+  - Data lakehouses
+  - Data warehousing
+  - GenAI & LLMs
+  - Graph databases
 
 # Education to show in About widget
 education:
@@ -74,15 +74,20 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 
 ### About me ##
 
-I am a Master's student in Data Engineering and Data Science at the University of São Paulo (USP), Researcher and Data Engineer, focused on bridging the gap between academic research and real-world industry applications.  My goal is to leverage my skills in data engineering and machine learning to build state-of-the-art technology that solves tangible problems.
+I am a Data Engineer (BSc 2024, MSc 2026) at the University of São Paulo (USP), with ~2 years of industry experience plus hands-on data engineering research since my undergraduate studies. I build data platforms and turn stakeholder problems into working solutions. My strength is bridging business and technology: running discovery with non-technical stakeholders, shaping ideas into solutions, and communicating their business value.
+
+A fast-learning generalist, I have worked as a data engineer, data analyst, AI engineer, researcher and educator, with hands-on experience in Databricks, Apache Spark, Delta Lake, Apache Iceberg, SQL and GenAI. I also design and teach hands-on Spark and SQL sessions for MBA professionals and mentor undergraduate researchers.
 
 <span style="display: block; height: 8px;"></span>
 
 ### Experience ##
 
-  - Applied Researcher Engineer at VONEX: Engineer researching LLMs and voice recognition algorithms to deploying functional prototypes.
-  - Data Analyst at NEES: Led the development of interactive dashboards with Apache Superset and creating Python/Django APIs to improve strategic decision-making.
-  - Research Scientist at UFAL: Designed and implemented big data solutions for Smart City research, developing data pipelines with Spark and Airflow and frameworks based on state-of-the-art architectures like Data Lakehouses.
+  - **Data Engineer @ USP** (Research Grant, Jan 2025 – Present): Prototyping and benchmarking LLM/GenAI approaches for graph database enrichment, designing star-schema analytical models on a Lakehouse, and building an end-to-end climate data warehouse over 1M+ reports. Mentoring 3 undergraduate researchers and collaborating with Université d'Orléans / INSA Centre-Val de Loire (France).
+  - **Data Engineer @ Tractian** (Part-time contractor, Oct 2025 – Sep 2026): Ran discovery with the data science team and led the design of an on-premise Medallion Lakehouse on Apache Iceberg and Spark processing 500GB/week, plus a centralized data catalog for discovery, governance and lineage.
+  - **MBA Tutor @ CEMEAI** (Part-time, Oct 2025 – Present): Designing course material and leading hands-on workshops on Apache Spark, Hadoop, dbt and SQL optimization for industry professionals. Earlier, Teaching Assistant for the OLAP course at USP.
+  - **AI Engineer @ Vonex** (Aug 2024 – Dec 2024): Took GenAI solutions from customer requirements to deployment, building RAG and semantic search prototypes with LLMs, vector databases and speech recognition, and benchmarking LLM providers on accuracy, latency and cost.
+  - **Data Analyst @ NEES** (Part-time, Sep 2023 – Dec 2024): Ran discovery with the Ministry of Education, defined 10+ KPIs and delivered 5+ Apache Superset dashboards, cutting decision-making time by 50%.
+  - **Data Engineer @ UFAL** (Research Grant, Aug 2021 – Aug 2024): Architected a Medallion Data Lakehouse (Databricks, Spark, Delta Lake, Airflow, AWS) unifying mobility and geospatial data from three cities, with Kimball star schemas feeding Superset dashboards.
 
 You can find more information on my <a href="https://drive.google.com/file/d/1TA7bGt0hTGi8Bd0Sm4o-ABfUjkLK0XfL/view?usp=sharing" target="_blank" style="text-decoration: none;">CV</a>
 
